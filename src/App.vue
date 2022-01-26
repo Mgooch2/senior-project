@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <Header></Header>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <Footer></Footer>
@@ -9,10 +10,12 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import Footer from "@/components/Footer";
+import Header from "@/components/Header";
 
 export default {
   name: 'App',
   components: {
+    Header,
     HelloWorld,
     Footer
   }
