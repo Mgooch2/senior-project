@@ -2,7 +2,7 @@
   <section>
     <article class="col1">
       <div class='text'>
-        <p id="welcome">Welcome to Total Health Portal!</p>
+        <p id="welcome">Welcome to SiteName!</p>
         <p id="fluff">We offer an innovative telemedicine application.</p>
       </div>
       <div class='gs_btn'>
@@ -11,12 +11,12 @@
     </article>
     <article class="col2">
       <div>
-        <img id="pic3" alt="pic3" src="src/assets/person-3.jpg">
-        <img id="pic4" alt="pic4" src="src/assets/person-4.jpg">
+        <img id="pic3" alt="pic3" src="../assets/person-3.jpg">
+        <img id="pic4" alt="pic4" src="../assets/person-4.jpg">
       </div>
       <div>
-        <img id="pic2" alt="pic2" src="src/assets/person-2.jpg">
-        <img id="pic1" alt="pic1" src="src/assets/person-1.jpg">
+        <img id="pic2" alt="pic2" src="../assets/person-2.jpg">
+        <img id="pic1" alt="pic1" src="../assets/person-1.jpg">
       </div>
     </article>
   </section>

@@ -1,7 +1,7 @@
 <template>
   <header>
     <div class="logo">
-      <img id="logo" alt="logo" src="src/assets/medlogo.png">
+      <img id="logo" alt="logo" src="../assets/medlogo.png">
     </div>
     <div class="buttons">
       <button id="login">Log In</button>

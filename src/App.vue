@@ -11,6 +11,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Landing from "@/components/Landing";
 
+
 export default {
   name: 'App',
   components: {
@@ -26,6 +27,6 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
+
 </style>
